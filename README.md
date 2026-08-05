@@ -1,10 +1,8 @@
 # About Me
 
-Commercially aware data professional who turns complex, messy data into clear insights that improve decisions and deliver measurable business value. I build end-to-end analytics projects spanning SQL data modelling, Python analysis, AI-assisted workflow evaluation, and stakeholder-ready dashboards in Power BI, Tableau, and Excel. My work places a strong emphasis on data quality, validation, analytical robustness, and practical operational impact.
+Data & Reporting Analyst focused on turning complex, messy data into clear, reliable insight for operational and commercial decisions. I build end-to-end analytics projects spanning SQL data modelling, Python analysis, Power Query transformation, data-quality controls, and stakeholder-ready dashboards in Power BI, Tableau, and Excel.
 
-I am particularly interested in product, commercial, operational, and customer analytics, with experience translating large datasets into clear findings, measurable opportunities, and actionable recommendations.
-
-## Contact
+My work emphasises reproducible reporting, KPI governance, validation, and practical operational impact. I am particularly interested in reporting, operations, product, commercial, and customer analytics, translating large datasets into transparent findings, measurable opportunities, and actionable recommendations.## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geeyoon-lim-6066b61b1/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wldbs5272@gmail.com)
 
@@ -15,6 +13,12 @@ I am particularly interested in product, commercial, operational, and customer a
 ---
 
 ## Featured Projects
+
+**[NHS Workforce Capacity & Service Delivery Reporting](https://github.com/ml20g2l/NHS-Workforce-Capacity-and-Service-Delivery-Reporting-Solution)**
+
+Designed a repeatable monthly operational reporting solution across NHS workforce, sickness absence, and A&E activity data. Built controlled Power Query intake, data-quality classification, reconciliation controls, Excel manager reporting, and a six-page Power BI dashboard with management alerts and organisation drill-through.
+
+`Excel` `Power Query` `Power BI` `Data Quality` `Python`
 
 **[AI-Augmented Customer Support Operations Analytics](https://github.com/ml20g2l/AI-Augmented-Customer-Support-Operations-Analytics)**
 
@@ -30,14 +34,12 @@ Analysed more than 20 million e-commerce events across 1.6 million sessions usin
 
 **[Macro Regime & Asset Performance Analytics](https://github.com/ml20g2l/Macro-Financial-Datasets)**
 
-Built an end-to-end Python and PostgreSQL pipeline that classified 1,111 trading days into four transparent macro regimes using one-day-lagged signals to prevent look-ahead bias. Evaluated SPY, IEF, and GLD across annualised return, volatility, maximum drawdown, Sharpe ratio, and cross-asset correlation, reconciling all 24 metric and correlation outputs between Python and PostgreSQL with zero discrepancies. Developed a self-contained Tableau dashboard and validated findings across six threshold scenarios and 5,000 moving-block bootstrap resamples, confirming GLD achieved the highest Tightening-regime return in all six scenarios while highlighting uncertainty in the limited Stress sample.
+Built an end-to-end Python and PostgreSQL pipeline that classified 1,111 trading days into four transparent macro regimes using one-day-lagged signals to prevent look-ahead bias. Evaluated SPY, IEF, and GLD across annualised return, volatility, maximum drawdown, Sharpe ratio, and cross-asset correlation, reconciling all 24 metric and correlation outputs between Python and PostgreSQL with zero discrepancies. Developed a self-contained Tableau dashboard and validated findings across six threshold scenarios and 5,000 moving-block bootstrap resamples.
 
-`Python` `PostgreSQL` `Tableau` `Statistical Analysis`
+`Python` `PostgreSQL` `Tableau` `Statistical Analysis`## Selected Analytical Outcomes
 
----
-
-## Selected Analytical Outcomes
-
+- Designed a controlled monthly workforce-capacity and service-delivery reporting process covering 12 reporting periods, 20 London providers, source-file lineage, schema validation, reconciliation, and KPI governance.
+- Built a six-page Power BI operations dashboard with workforce, availability, demand, delivery, capacity-pressure, data-quality, and organisation drill-through views.
 - Analysed more than 20 million e-commerce events to identify conversion, retention, and customer-behaviour opportunities.
 - Reconciled all 24 Python and PostgreSQL metric and correlation outputs with zero discrepancies.
 - Designed confidence-based AI ticket-routing rules with human review safeguards.
