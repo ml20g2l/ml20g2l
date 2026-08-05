@@ -2,7 +2,9 @@
 
 Data & Reporting Analyst focused on turning complex, messy data into clear, reliable insight for operational and commercial decisions. I build end-to-end analytics projects spanning SQL data modelling, Python analysis, Power Query transformation, data-quality controls, and stakeholder-ready dashboards in Power BI, Tableau, and Excel.
 
-My work emphasises reproducible reporting, KPI governance, validation, and practical operational impact. I am particularly interested in reporting, operations, product, commercial, and customer analytics, translating large datasets into transparent findings, measurable opportunities, and actionable recommendations.## Contact
+My work emphasises reproducible reporting, KPI governance, validation, and practical operational impact. I am particularly interested in reporting, operations, product, commercial, and customer analytics, translating large datasets into transparent findings, measurable opportunities, and actionable recommendations.
+
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geeyoon-lim-6066b61b1/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wldbs5272@gmail.com)
 
@@ -36,7 +38,9 @@ Analysed more than 20 million e-commerce events across 1.6 million sessions usin
 
 Built an end-to-end Python and PostgreSQL pipeline that classified 1,111 trading days into four transparent macro regimes using one-day-lagged signals to prevent look-ahead bias. Evaluated SPY, IEF, and GLD across annualised return, volatility, maximum drawdown, Sharpe ratio, and cross-asset correlation, reconciling all 24 metric and correlation outputs between Python and PostgreSQL with zero discrepancies. Developed a self-contained Tableau dashboard and validated findings across six threshold scenarios and 5,000 moving-block bootstrap resamples.
 
-`Python` `PostgreSQL` `Tableau` `Statistical Analysis`## Selected Analytical Outcomes
+`Python` `PostgreSQL` `Tableau` Statistical Analysis
+
+## Selected Analytical Outcomes
 
 - Designed a controlled monthly workforce-capacity and service-delivery reporting process covering 12 reporting periods, 20 London providers, source-file lineage, schema validation, reconciliation, and KPI governance.
 - Built a six-page Power BI operations dashboard with workforce, availability, demand, delivery, capacity-pressure, data-quality, and organisation drill-through views.
