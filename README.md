@@ -1,8 +1,8 @@
 # About Me
 
-Data & Reporting Analyst focused on turning complex, messy data into clear, reliable insight for operational and commercial decisions. I build end-to-end analytics projects spanning SQL data modelling, Python analysis, Power Query transformation, data-quality controls, and stakeholder-ready dashboards in Power BI, Tableau, and Excel.
+Data & Analytics professional focused on turning complex, messy data into reliable decision support. I build end-to-end analytics solutions spanning source ingestion, data-quality controls, SQL modelling, workflow orchestration, statistical analysis, and stakeholder-ready reporting in Power BI, Tableau, and Excel.
 
-My work emphasises reproducible reporting, KPI governance, validation, and practical operational impact. I am particularly interested in reporting, operations, product, commercial, and customer analytics, translating large datasets into transparent findings, measurable opportunities, and actionable recommendations.
+My work combines Data Analyst, Analytics Engineer, and Data Engineer practices: defining trustworthy metrics, preserving lineage, automating repeatable pipelines, reconciling outputs across tools, and translating technical results into clear operational and commercial recommendations.
 
 ## Contact
 
@@ -10,11 +10,17 @@ My work emphasises reproducible reporting, KPI governance, validation, and pract
 
 ## Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Google Analytics](https://img.shields.io/badge/google_analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=SciPy&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## Featured Projects
+
+**[Enterprise Spend Analytics Pipeline](https://github.com/ml20g2l/Enterprise-Spend-Analysis-Pipeline)**
+
+Built a reproducible spend analytics portfolio solution with two explicitly separated data paths: quality profiling and descriptive analysis of 13,830 real DEFRA public-spend rows, and an operational fictional-company pipeline covering 5,000 multi-currency expenses and 20,000 approval events. Implemented Python validation, idempotent MySQL loading, historical FX conversion, 17 dbt models with 73 tests, a five-task Airflow workflow, GitHub Actions regression testing, and a three-page Power BI management report.
+
+`Python` `MySQL` `dbt` `Apache Airflow` `Docker` `Power BI` `GitHub Actions`
 
 **[NHS Workforce Capacity & Service Delivery Reporting](https://github.com/ml20g2l/NHS-Workforce-Capacity-and-Service-Delivery-Reporting-Solution)**
 
@@ -36,15 +42,6 @@ Analysed more than 20 million e-commerce events across 1.6 million sessions usin
 
 **[Macro Regime & Asset Performance Analytics](https://github.com/ml20g2l/Macro-Financial-Datasets)**
 
-Built an end-to-end Python and PostgreSQL pipeline that classified 1,111 trading days into four transparent macro regimes using one-day-lagged signals to prevent look-ahead bias. Evaluated SPY, IEF, and GLD across annualised return, volatility, maximum drawdown, Sharpe ratio, and cross-asset correlation, reconciling all 24 metric and correlation outputs between Python and PostgreSQL with zero discrepancies. Developed a self-contained Tableau dashboard and validated findings across six threshold scenarios and 5,000 moving-block bootstrap resamples.
+Built an end-to-end Python and PostgreSQL pipeline that classified 1,111 trading days into four transparent macro regimes using one-day-lagged signals to prevent look-ahead bias. Evaluated SPY, IEF, and GLD across return, risk, and correlation metrics, reconciling all 24 Python and PostgreSQL outputs with zero discrepancies and validating findings across six threshold scenarios and 5,000 moving-block bootstrap resamples.
 
-`Python` `PostgreSQL` `Tableau` Statistical Analysis
-
-## Selected Analytical Outcomes
-
-- Designed a controlled monthly workforce-capacity and service-delivery reporting process covering 12 reporting periods, 20 London providers, source-file lineage, schema validation, reconciliation, and KPI governance.
-- Built a six-page Power BI operations dashboard with workforce, availability, demand, delivery, capacity-pressure, data-quality, and organisation drill-through views.
-- Analysed more than 20 million e-commerce events to identify conversion, retention, and customer-behaviour opportunities.
-- Reconciled all 24 Python and PostgreSQL metric and correlation outputs with zero discrepancies.
-- Designed confidence-based AI ticket-routing rules with human review safeguards.
-- Tested financial findings across six threshold scenarios and 5,000 moving-block bootstrap resamples.
+`Python` `PostgreSQL` `Tableau` `Statistical Analysis`
