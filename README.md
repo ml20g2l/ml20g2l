@@ -18,9 +18,9 @@ My work combines Data Analyst, Analytics Engineer, and Data Engineer practices: 
 
 **[Enterprise Spend Analytics Pipeline](https://github.com/ml20g2l/Enterprise-Spend-Analysis-Pipeline)**
 
-Built a reproducible spend analytics portfolio solution with two explicitly separated data paths: quality profiling and descriptive analysis of 13,830 real DEFRA public-spend rows, and an operational fictional-company pipeline covering 5,000 multi-currency expenses and 20,000 approval events. Implemented Python validation, idempotent MySQL loading, historical FX conversion, 17 dbt models with 73 tests, a five-task Airflow workflow, GitHub Actions regression testing, and a three-page Power BI management report.
+Built a reproducible spend analytics portfolio solution with two explicitly separated data paths: quality profiling and descriptive analysis of 13,830 real DEFRA public-spend rows, and an operational fictional-company pipeline covering 5,000 multi-currency expenses and 20,000 approval events. Implemented Python validation, idempotent MySQL loading, cached historical FX conversion, 17 dbt models with 73 tests, and a six-task Airflow workflow with 24/24 reconciliation and 6/6 freshness controls. Delivered a four-page Power BI report with separate business and pipeline-health views, supported by Grafana and Streamlit monitoring dashboards.
 
-`Python` `MySQL` `dbt` `Apache Airflow` `Docker` `Power BI` `GitHub Actions`
+`Python` `MySQL` `dbt` `Apache Airflow` `Docker` `Power BI` `Grafana` `Streamlit` `GitHub Actions`
 
 **[NHS Workforce Capacity & Service Delivery Reporting](https://github.com/ml20g2l/NHS-Workforce-Capacity-and-Service-Delivery-Reporting-Solution)**
 
