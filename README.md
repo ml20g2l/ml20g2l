@@ -22,6 +22,12 @@ Built a reproducible spend analytics portfolio solution with two explicitly sepa
 
 `Python` `MySQL` `dbt` `Apache Airflow` `Docker` `Power BI` `Grafana` `Streamlit` `GitHub Actions`
 
+**[Road Collision Risk & Spatial Inequality](https://github.com/ml20g2l/Road_Collision_Risk_Spatial_Inequality)**
+
+Built a reproducible geospatial analytics product from official STATS19 collision, traffic-exposure, deprivation, and ONS geography data to separate collision volume, exposure-adjusted risk, community burden, and conditional severity. Automated checksum-pinned ingestion and a clean-room rebuild of 513,801 collisions with Python, modelled 8 staging, 3 intermediate, and 4 decision marts in dbt and DuckDB, and enforced 58 dbt tests plus 19 pytest checks through GitHub Actions. Delivered a four-page Power BI report with 100% England-to-deprivation matching, 99.98% authority-traffic join coverage, and explicit guardrails against unsupported link-level risk claims.
+
+`Python` `dbt` `DuckDB` `Power BI` `Geospatial Analysis` `Data Quality` `pytest` `GitHub Actions`
+
 **[NHS Workforce Capacity & Service Delivery Reporting](https://github.com/ml20g2l/NHS-Workforce-Capacity-and-Service-Delivery-Reporting-Solution)**
 
 Designed a repeatable monthly operational reporting solution across NHS workforce, sickness absence, and A&E activity data. Built controlled Power Query intake, data-quality classification, reconciliation controls, Excel manager reporting, and a six-page Power BI dashboard with management alerts and organisation drill-through.
